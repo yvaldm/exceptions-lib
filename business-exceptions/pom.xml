@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>services-exceptions</artifactId>
+    <artifactId>business-exceptions</artifactId>
 
     <dependencies>
         <dependency>
